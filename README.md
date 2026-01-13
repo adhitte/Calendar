@@ -13,10 +13,10 @@
 ---
 
 ## Project Structure
-  calendar_app -> main project folder
-  main.py -> starts the app
-  calendar_ui.py -> contains code for calendar widget
-  requirements.txt -> lists dependancies
+  calendar_app -> *main project folder*
+  main.py -> *starts the app*
+  calendar_ui.py -> *contains code for calendar widget*
+  requirements.txt -> *lists dependancies*
 
 ---
 
