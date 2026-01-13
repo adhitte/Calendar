@@ -5,47 +5,47 @@
 ---
 
 ## Features
-  - Displays a calendar widget with clickable dates
-  - Shows the selected date in a label below the calendar
-  - Built using PyQt5 for cross-platform desktop support
-  - Lightweight and easy to run
+  - Displays a calendar widget with clickable dates<br>
+  - Shows the selected date in a label below the calendar<br>
+  - Built using PyQt5 for cross-platform desktop support<br>
+  - Lightweight and easy to run<br>
 
 ---
 
 ## Project Structure
-  calendar_app -> *main project folder*
-  main.py -> *starts the app*
-  calendar_ui.py -> *contains code for calendar widget*
-  requirements.txt -> *lists dependancies*
+  calendar_app -> *main project folder* <br>
+  main.py -> *starts the app* <br>
+  calendar_ui.py -> *contains code for calendar widget* <br>
+  requirements.txt -> *lists dependancies* <br>
 
 ---
 
 ## Installation and Setup
-  1. **Download your repo**
-       git clone https://github.com/yourusername/calendar.git
-         *(creates local copy of your repo on your computer)*
-  2. **Go into the repo folder**
-       cd calendar
-         *(This switches your terminal into that folder so you can run files there)*
-  3. **Install Dependancies**
-       pip install -r requirements.txt
-         *(Installs all the libraries written in requirements.txt)*
-  4. **Run the app**
-       python main.py
-         *(runs the file in which the main code is written)*
+  1. **Download your repo**<br>
+       git clone https://github.com/yourusername/calendar.git<br>
+         *(creates local copy of your repo on your computer)* <br>
+  2. **Go into the repo folder**<br>
+       cd calendar<br>
+         *(This switches your terminal into that folder so you can run files there)* <br>
+  3. **Install Dependancies**<br>
+       pip install -r requirements.txt<br>
+         *(Installs all the libraries written in requirements.txt)* <br>
+  4. **Run the app**<br>
+       python main.py<br>
+         *(runs the file in which the main code is written)* <br>
 
 ---
 
 ## Requirements
-  1. Python 3.8+
-  2. PyQt5
+  1. Python 3.8+<br>
+  2. PyQt5<br>
 
 ---
 
 ## Future Improvements
-  - Add custom stylesheets for a more colorful design
-  - Include graphics or icons for navigation
-  - Event management i.e. add notes/reminders to specific dates
+  - Add custom stylesheets for a more colorful design<br>
+  - Include graphics or icons for navigation<br>
+  - Event management i.e. add notes/reminders to specific dates<br>
 
 
   
